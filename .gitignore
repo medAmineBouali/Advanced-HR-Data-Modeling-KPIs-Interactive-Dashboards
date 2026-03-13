@@ -1,1 +1,9 @@
-data/data
+# Ignorer les données
+data/
+*.csv
+
+# Ignorer les fichiers Power BI volumineux
+*.pbix
+
+# Ignorer les dossiers système
+.DS_Store
